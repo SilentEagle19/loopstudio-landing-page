@@ -8,7 +8,7 @@ body{
     
     /* font-family:  */
     font-family: 'Alata', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     color:   hsl(0, 0%, 41%);
 }
@@ -171,7 +171,7 @@ h3{
     margin: 30px;
     padding: 30px;
     border: 2px solid white;
-    font-size: 48px;
+    font-size: 42px;
 }
 
 
